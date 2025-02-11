@@ -1,20 +1,136 @@
-AI-Learning-Journey
-Welcome to my AI learning journey repository!
-This repository documents my daily progress in learning AI engineering, covering everything from APIs and prompt engineering to open-source LLMs and basic deployments.
+🚀 AI Engineering Learning Journey
 
-Daily Goals
-Today’s Focus (Day 1):
+Welcome to my AI Engineering Learning Journey! This repository documents my daily progress as I learn and apply AI engineering concepts, following a structured roadmap.
 
-Learn what Large Language Models (LLMs) are.
-Understand how LLM APIs (like OpenAI’s) work.
-Set up an API key and make my first API request using Python.
-What you’ll find in this repository:
+📅 Learning Plan: Stage 1 (Beginner - 1 Month)
 
-A Python script that demonstrates making a request to OpenAI’s API.
-A simple example of interacting with an LLM and returning a response.
-Notes and code showcasing each step of my learning process.
-What’s Next?
-Push daily code updates and examples.
-Continue building small, focused projects to apply each day’s concepts.
-Gradually create more complex and interactive applications as I learn.
-Feel free to explore, learn from, and follow along as I document my AI-learning adventure!
+I will dedicate 1 hour per day to learning AI engineering fundamentals and documenting my progress here.
+
+📌 Roadmap Overview
+
+✅ Week 1: APIs & Prompt Engineering
+
+Learn OpenAI & HuggingFace APIs
+
+Work with JSON & REST API calls
+
+Experiment with prompt engineering
+
+Build a simple AI-powered chatbot
+
+Deploy a chatbot UI using Gradio/Streamlit
+
+✅ Week 2: Open Source LLMs & Chains of Operations
+
+Explore HuggingFace transformers & LangChain
+
+Run open-source LLMs locally
+
+Manage context and chaining in AI workflows
+
+Automate operations and deploy basic AI apps
+
+✅ Week 3: AI Application Development
+
+Work with text, image & audio generation
+
+Implement RAG (Retrieval-Augmented Generation)
+
+Learn vector databases (Pinecone, Chroma)
+
+Build basic AI agents
+
+✅ Week 4: Deployment & Practical Applications
+
+Learn about AI deployment
+
+Optimize API calls and performance
+
+Debug AI models and handle security risks
+
+Capstone project: Build & deploy a full AI-powered app
+
+📝 Daily Progress Log
+
+Each day, I will commit my learning progress and projects. Below is a log of my daily updates:
+
+Day
+
+Topic Learned
+
+GitHub Commit
+
+1️⃣
+
+Introduction to LLM APIs
+
+✅ Day 1 Code
+
+2️⃣
+
+API Calls & Authentication
+
+✅ Day 2 Code
+
+3️⃣
+
+Prompt Engineering Basics
+
+✅ Day 3 Code
+
+4️⃣
+
+Advanced Prompt Engineering
+
+✅ Day 4 Code
+
+...
+
+...
+
+...
+
+(This table will be updated daily as I progress.)
+
+📂 Project Structure
+
+/AI-Learning-Journey
+│── week1/
+│   ├── day1_openai_api.py
+│   ├── day2_api_auth.py
+│   ├── day3_prompt_engineering.py
+│   ├── ...
+│── week2/
+│   ├── day8_huggingface_intro.py
+│   ├── day9_lm_studio_test.py
+│   ├── ...
+│── week3/
+│   ├── ...
+│── week4/
+│   ├── ...
+│── final_project/
+│   ├── main.py
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── README.md
+
+📚 Resources I'm Using
+
+APIs & Prompt Engineering: OpenAI API Docs
+
+Open Source LLMs: Hugging Face
+
+LangChain: LangChain Docs
+
+Deployment: Gradio / Streamlit
+
+🎯 Goal After 1 Month
+
+By the end of Stage 1, I aim to:
+✅ Understand AI engineering basics✅ Build & deploy AI-powered applications✅ Document everything in this repo✅ Move to Stage 2 (Intermediate AI Engineering)
+
+🌟 Follow My Progress
+
+If you're also learning AI engineering, feel free to fork this repo, follow along, or contribute!
+
+🚀 Let’s build AI solutions together!📩 Contact https://github.com/diogoneno
