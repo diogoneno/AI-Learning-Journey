@@ -1,11 +1,11 @@
-#AI-Learning-Journey
-##Welcome to my AI learning journey repository!
+AI-Learning-Journey
+Welcome to my AI learning journey repository!
 This repository documents my daily progress in learning AI engineering, covering everything from APIs and prompt engineering to open-source LLMs and basic deployments.
 
-##Daily Goals
+Daily Goals
 Today’s Focus (Day 1):
 
-##Learn what Large Language Models (LLMs) are.
+Learn what Large Language Models (LLMs) are.
 Understand how LLM APIs (like OpenAI’s) work.
 Set up an API key and make my first API request using Python.
 What you’ll find in this repository:
