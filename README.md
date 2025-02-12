@@ -96,18 +96,19 @@ Advanced Prompt Engineering
 
 /AI-Learning-Journey
 │── week1/
-│   ├── day1_openai_api.py
-│   ├── day2_api_auth.py
-│   ├── day3_prompt_engineering.py
-│   ├── ...
+│   ├── day1/
+│   │   ├── openai_api.py
+│   ├── day2/
+│   │   ├── api_authentication.py
+│   ├── day3/
+│   ├── day4/
 │── week2/
-│   ├── day8_huggingface_intro.py
-│   ├── day9_lm_studio_test.py
-│   ├── ...
+│   ├── day8/
+│   │   ├── huggingface_intro.py
+│   ├── day9/
+│   │   ├── lm_studio_test.py
 │── week3/
-│   ├── ...
 │── week4/
-│   ├── ...
 │── final_project/
 │   ├── main.py
 │   ├── app.py
