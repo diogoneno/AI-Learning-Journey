@@ -1,0 +1,5 @@
+gradio>=4.0
+transformers>=4.44
+accelerate>=0.33
+torch>=2.1 ; platform_system != "Darwin" or platform_machine != "arm64"
+requests>=2.31
