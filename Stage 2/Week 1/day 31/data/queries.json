@@ -1,0 +1,5 @@
+[
+  {"question": "What is the CIA triad?", "keywords": ["confidentiality", "integrity", "availability"]},
+  {"question": "How does zero trust work?", "keywords": ["zero", "trust", "verification"]},
+  {"question": "Why use RAG?", "keywords": ["rag", "retrieves", "documents"]}
+]

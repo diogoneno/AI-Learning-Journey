@@ -1,0 +1,9 @@
+The CIA triad (Confidentiality, Integrity, Availability) underpins information security. 
+Zero Trust assumes no implicit trust and enforces continuous verification and least privilege. 
+Retrieval-Augmented Generation (RAG) retrieves relevant documents to ground language model responses. 
+ISO/IEC 27001 provides a risk-based framework with Annex A controls. 
+BM25 ranks keyword relevance, while vector databases (like Chroma and FAISS) enable semantic search using embeddings. 
+Multi-factor authentication (MFA) strengthens identity assurance. 
+Langfuse adds tracing and observability for LLM apps. 
+Agents orchestrate tool-usage like search and calculation to solve tasks. 
+Backups should be encrypted, immutable, and regularly tested for disaster recovery confidence. 
