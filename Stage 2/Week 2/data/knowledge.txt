@@ -1,0 +1,8 @@
+The CIA triad comprises Confidentiality, Integrity, and Availability.
+Zero Trust assumes no implicit trust; verify explicitly and use least privilege.
+RAG (Retrieval-Augmented Generation) retrieves relevant context and grounds answers.
+ISO/IEC 27001 focuses on risk-based information security management (Annex A).
+BM25 ranks keyword relevance; vector DBs (Chroma/FAISS) enable semantic retrieval.
+Backups should be encrypted, immutable, and regularly tested.
+Langfuse enables tracing and observability for LLM applications.
+Agents can call tools (calc/search/RAG) to complete multi-step tasks.
