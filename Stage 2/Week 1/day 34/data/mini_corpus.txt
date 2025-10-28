@@ -1,0 +1,10 @@
+DOC_1: The CIA triad stands for Confidentiality, Integrity, and Availability in information security.
+DOC_2: Zero Trust requires continuous verification and least privilege across identities and devices.
+DOC_3: RAG (Retrieval-Augmented Generation) retrieves relevant documents and grounds LLM responses.
+DOC_4: ISO/IEC 27001 is a risk-based information security management standard with Annex A controls.
+DOC_5: Backups must be encrypted, immutable, and regularly tested for reliable disaster recovery.
+DOC_6: Multi-factor authentication (MFA) reduces account takeover by adding a second factor.
+DOC_7: Vector databases store embeddings for similarity search; examples include Chroma and FAISS.
+DOC_8: BM25 is a classic ranking algorithm that scores keyword relevance in text documents.
+DOC_9: Langfuse enables LLM tracing and observability for prompts, spans, and evaluations.
+DOC_10: Agents can call tools like web search or calculators to complete multi-step tasks.
