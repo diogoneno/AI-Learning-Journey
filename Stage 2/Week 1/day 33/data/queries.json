@@ -1,0 +1,7 @@
+[
+  {"question": "What does the CIA triad mean?", "expected_keywords": ["confidentiality", "integrity", "availability"]},
+  {"question": "Explain zero trust briefly", "expected_keywords": ["zero trust", "verification", "least privilege"]},
+  {"question": "How does RAG improve factuality?", "expected_keywords": ["rag", "retrieval", "documents"]},
+  {"question": "Name a security standard for risk management", "expected_keywords": ["27001", "annex", "risk"]},
+  {"question": "What improves ranking of keyword relevance?", "expected_keywords": ["bm25", "keyword"]}
+]
