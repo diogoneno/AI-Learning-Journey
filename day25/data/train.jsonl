@@ -1,0 +1,5 @@
+{"instruction":"Explain the CIA triad clearly.","input":"","output":"The CIA triad consists of Confidentiality, Integrity, and Availability—three core objectives of information security."}
+{"instruction":"Give two examples of access control mechanisms.","input":"","output":"Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC)."}
+{"instruction":"Summarise Zero Trust in one paragraph.","input":"","output":"Zero Trust assumes no implicit trust. Every request is authenticated, authorised, and continuously validated, minimising lateral movement."}
+{"instruction":"State a benefit of RAG.","input":"","output":"RAG grounds model responses in retrieved context, improving factuality and transparency."}
+{"instruction":"List three controls for backups.","input":"","output":"Encryption at rest/in transit, immutable storage, and regular restore testing."}
