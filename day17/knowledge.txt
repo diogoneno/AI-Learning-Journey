@@ -1,5 +1,0 @@
-Add domain notes you want to retrieve later.
-
-Sample:
-ISO/IEC 27001 is an information security management standard focusing on risk management and continual improvement.
-NIST SP 800-53 provides security and privacy controls for information systems.

@@ -1,6 +1,0 @@
-Paste or write your knowledge base here.
-
-Example:
-The CIA triad stands for Confidentiality, Integrity, and Availability.
-Zero Trust is a security model that assumes no implicit trust and verifies explicitly.
-RAG (Retrieval-Augmented Generation) retrieves relevant context and feeds it to an LLM to improve factual accuracy.
